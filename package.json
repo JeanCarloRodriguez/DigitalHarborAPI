@@ -1,0 +1,27 @@
+{
+  "name": "digitalharbor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JeanCarloRodriguez/DigitalHarborAPI.git"
+  },
+  "author": "Jean Carlo Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeanCarloRodriguez/DigitalHarborAPI/issues"
+  },
+  "homepage": "https://github.com/JeanCarloRodriguez/DigitalHarborAPI#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.1",
+    "superagent": "^6.0.0"
+  }
+}
